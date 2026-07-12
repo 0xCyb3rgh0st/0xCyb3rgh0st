@@ -270,9 +270,7 @@ Knowledge over hype.
 <img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=firefoxbrowser">
 </a>
 
-<a href="mailto:js8971105@gmail.com">
-<img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail">
-</a>
+
 
 </p>
 
