@@ -1,85 +1,294 @@
-[![MasterHead](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)](https://jatinsingh.com.np)
-
-<h1 align="center">Hi 👋, I'm Jatin Singh Tomar</h1>
-<h3 align="center">Cybersecurity and Ethical Hacking Student</h3>
+<!-- ========================================================= -->
+<!-- Replace assets/banner.svg with your own custom banner -->
+<!-- Recommended size: 1600x500 -->
+<!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jatinsinghnp&label=Profile%20views&color=0e75b6&style=flat" alt="jatinsinghnp" />
+<img src="assets/banner.svg" width="100%" alt="0xCyb3rgh0st">
+</p>
+
+<h1 align="center">0xCyb3rgh0st</h1>
+
+<p align="center">
+Security Researcher • Vulnerability Research • Exploit Development
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xTiTnljRytcCaVau4g/giphy.gif" alt="Matrix Effect" width="500"/>
-</p>
 
----
+<a href="https://github.com/0xCyb3rgh0st" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
-- 🔭 I’m currently a **Cybersecurity and Ethical Hacking Student**
+<a href="https://www.linkedin.com/in/jatin-singh-05b915279/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-- 🌱 I’m learning about **vulnerability assessment, penetration testing,** and **threat analysis**
-
-- 📝 I write articles on cybersecurity topics at [jatinsingh.com.np](http://jatinsingh.com.np)
-
-- 💬 Ask me about **cybersecurity basics, CTFs,** and **ethical hacking techniques**
-
-- 📫 Reach me at **js8971105@gmail.com**
-
-- ⚡ Fun fact: **I love solving CTF challenges in my free time**
-
----
-
-<h3 align="center">Programming Languages & Tools:</h3>
-<p align="center">
-    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
-    <img src="https://img.shields.io/badge/NeoVim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="NeoVim"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="SQL"/>
-    <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
-    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-    <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" alt="Celery"/>
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-    <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>
 </p>
 
 ---
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
- <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@jatinsi55117764" height="30" width="40" /></a>
- <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jatin-tomar" height="30" width="40" /></a>
- <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="jatinsinghtomar" height="30" width="40" /></a>
- <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="singh.jatin.794" height="30" width="40" /></a>
- <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="singh.jatin.794" height="30" width="40" /></a>
-</p> 
+# Who Am I
+
+I am a **Security Researcher** focused on building open-source tooling that makes **vulnerability research faster, more accurate, and easier to reproduce**.
+
+My interests span exploit development, reverse engineering, Active Directory security, offensive AI, and web application security. I enjoy designing tools that eliminate repetitive tasks so researchers can spend more time understanding vulnerabilities instead of managing workflows.
 
 ---
 
-<h3 align="center">Support My Work:</h3>
-<p align="center"><a href="https://ko-fi.com/jatinsingh92068"> <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="jatin singh" /></a></p>
+# Current Focus
+
+```text
+• Vulnerability Research
+• Exploit Development
+• Reverse Engineering
+• Active Directory Security
+• AI-assisted Security Research
+• Web Application Security
+```
 
 ---
 
-<h3 align="center">GitHub Stats:</h3>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=jatinsinghnp&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="GitHub Stats"/>
-</p>
+# Mission
+
+> Build world-class open-source tools that make vulnerability research easier.
+
+---
+
+# Research Interests
+
+| Area | Focus |
+|-------|-------|
+| 💥 Exploit Development | Linux & Windows |
+| 🔍 Reverse Engineering | Binary Analysis & Automation |
+| 🏢 Active Directory | Offensive Security |
+| 🌐 Web Security | Modern Web Exploitation |
+| 🤖 AI Security | AI-assisted Vulnerability Research |
+| ☁️ Cloud Security | Attack Surface Research |
+| 🧠 Vulnerability Research | Tooling & Automation |
+
+---
+
+# Certifications
+
+```
+✔ CRTO
+✔ CPTS
+✔ eWPTXv3
+✔ CRTA
+✔ ACP
+```
+
+---
+
+# Education
+
+**BSc (Hons) Ethical Hacking & Cyber Security**
+
+---
+
+# Flagship Projects
+
+## 🔥 pwnlibc
+
+Advanced libc identification toolkit for exploit development.
+
+```
+✔ Fast libc identification
+✔ Automatic download
+✔ Symbol lookup
+✔ Python API
+✔ CLI
+```
+
+---
+
+## ⚡ ghidra-open
+
+One-command launcher for Ghidra.
+
+```
+Binary
+
+↓
+
+Automatic Project
+
+↓
+
+Headless Analysis
+
+↓
+
+Launch GUI
+```
+
+---
+
+## 🧠 VulnOS *(In Development)*
+
+An open-source workspace for vulnerability research.
+
+```
+Workspace
+
+├── Targets
+├── Findings
+├── Evidence
+├── Notes
+├── Reverse Engineering
+├── Reports
+├── AI Assistant
+└── Plugins
+```
+
+---
+
+# Long-Term Vision
+
+Build an ecosystem of tools that supports the complete vulnerability research lifecycle.
+
+```
+CLI
+
+↓
+
+Workspace
+
+↓
+
+Automation
+
+↓
+
+AI Assistant
+
+↓
+
+Reporting
+
+↓
+
+Knowledge Base
+```
+
+---
+
+# Technologies
+
+### Languages
+
+```
+Python
+Go
+Rust
+C
+JavaScript
+```
+
+### Reverse Engineering
+
+```
+Ghidra
+IDA Pro
+Frida
+WinDbg
+pwndbg
+```
+
+### Offensive Security
+
+```
+Burp Suite
+Nuclei
+Impacket
+BloodHound
+Certipy
+Sliver
+Metasploit
+Nmap
+ffuf
+```
+
+### Infrastructure
+
+```
+Docker
+Linux
+PostgreSQL
+Redis
+GitHub Actions
+```
+
+---
+
+# Philosophy
+
+```
+Automation over repetition.
+
+Research over noise.
+
+Quality over quantity.
+
+Tools over templates.
+
+Knowledge over hype.
+```
+
+---
+
+# Open Source Goals
+
+- Build professional offensive security tooling.
+- Publish high-quality technical research.
+- Contribute to the security community.
+- Create software researchers enjoy using.
+
+---
+
+# GitHub Statistics
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatinsinghnp&layout=compact&theme=dark" alt="Top Languages"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=0xCyb3rgh0st&show_icons=true&hide_border=true&theme=github_dark"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xCyb3rgh0st&layout=compact&hide_border=true&theme=github_dark"/>
+
 </p>
 
+---
+
+# Connect
+
 <p align="center">
-    <img src="https://img.shields.io/github/followers/jatinsinghnp?style=social" alt="GitHub Followers"/>
+
+<a href="https://github.com/0xCyb3rgh0st">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://jatinsingh.com.np">
+<img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=firefoxbrowser">
+</a>
+
+<a href="mailto:js8971105@gmail.com">
+<img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail">
+</a>
+
 </p>
 
 ---
 
 <p align="center">
-    <img src="https://github.com/jatinsinghnp/jatinsinghnp/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+
+```text
+███████╗ ███████╗ ██████╗██╗   ██╗██████╗ ██╗████████╗██╗   ██╗
+██╔════╝██╔════╝██╔════╝██║   ██║██╔══██╗██║╚══██╔══╝╚██╗ ██╔╝
+███████╗█████╗  ██║     ██║   ██║██████╔╝██║   ██║    ╚████╔╝
+╚════██║██╔══╝  ██║     ██║   ██║██╔══██╗██║   ██║     ╚██╔╝
+███████║███████╗╚██████╗╚██████╔╝██║  ██║██║   ██║      ██║
+╚══════╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝   ╚═╝      ╚═╝
+```
+
+*"Build tools that researchers trust."*
+
 </p>
